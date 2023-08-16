@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="DELETE">
+        <order>1000</order>
+        <role/>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-08-16 07:54:26</sys_created_on>
+        <sys_id>cdcd967f972031104c08b6cfe153af25</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>09cd967f972031104c08b6cfe153af23</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_embedded_help_role_cdcd967f972031104c08b6cfe153af25</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-08-16 07:54:26</sys_updated_on>
+    </sys_embedded_help_role>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>72afb056dbc2f3880b9d21c405961988</instance_id>
+        <instance_name>dev87849</instance_name>
+        <name>sys_embedded_help_role_cdcd967f972031104c08b6cfe153af25</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role"><sys_embedded_help_role action="INSERT_OR_UPDATE"><order>1000</order><role/><sys_class_name>sys_embedded_help_role</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-08-16 07:54:26</sys_created_on><sys_id>cdcd967f972031104c08b6cfe153af25</sys_id><sys_mod_count>0</sys_mod_count><sys_name>09cd967f972031104c08b6cfe153af23</sys_name><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>sys_embedded_help_role_cdcd967f972031104c08b6cfe153af25</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-08-16 07:54:26</sys_updated_on></sys_embedded_help_role></record_update>]]></payload>
+        <payload_hash>-100240325</payload_hash>
+        <record_name/>
+        <reverted_from/>
+        <source>055e2da2972031104c08b6cfe153af76</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by/>
+        <sys_created_on>2023-08-12 07:14:47</sys_created_on>
+        <sys_id>41a35f73972431104c08b6cfe153af2e</sys_id>
+        <sys_mod_count/>
+        <sys_recorded_at>189e898fa580000000</sys_recorded_at>
+        <sys_updated_by/>
+        <sys_updated_on/>
+        <type>Embedded Help Role Priority</type>
+        <update_guid>01a35f738224311030c479df19cde32e</update_guid>
+        <update_guid_history>01a35f738224311030c479df19cde32e:-100240325</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-08-16 12:20:12</sys_created_on>
+        <sys_db_object display_value="" name="sys_embedded_help_role">sys_embedded_help_role</sys_db_object>
+        <sys_id>63c32d1cd36942d89f975f2babf90d90</sys_id>
+        <sys_metadata>cdcd967f972031104c08b6cfe153af25</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>09cd967f972031104c08b6cfe153af23</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete/>
+        <sys_update_name>sys_embedded_help_role_cdcd967f972031104c08b6cfe153af25</sys_update_name>
+        <sys_update_version display_value="sys_embedded_help_role_cdcd967f972031104c08b6cfe153af25">41a35f73972431104c08b6cfe153af2e</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-08-16 12:20:12</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
